@@ -1,0 +1,60 @@
+Country;District;Site;Code
+Côte d'Ivoire;Danane;H G Danane;IDA
+Côte d'Ivoire;Danane;DR Banteapleu;IDB
+Côte d'Ivoire;Danane;CSU Kouhan-Houle;IDC
+Côte d'Ivoire;Danane;CSU Mahapleu;IDD
+Côte d'Ivoire;Danane;CSR Daleu ;IDF
+Côte d'Ivoire;Sassandra;H G Sassandra;ISA
+Côte d'Ivoire;Sassandra;CSU Dakpadou;ISB
+Côte d'Ivoire;Sassandra;CSR Medon;ISD
+Côte d'Ivoire;Sassandra;DR DE Sahou;ISE
+Côte d'Ivoire;Sassandra;Sago PHC;ISF
+Cameroon;Obala;Obala District Hospital;COA
+Cameroon;Obala;CSI Ngogo;COB
+Cameroon;Obala;CMA Batchenga;COC
+Cameroon;Obala;CMA Fomakap;COD
+Cameroon;Obala;CSI Essong;COE
+Cameroon;Bafia;HD Bafia;CFA
+Cameroon;Bafia;CMA Bokito Bafia;CFB
+Cameroon;Bafia;CSI Messngssang;CFC
+Cameroon;Bafia;CSI Balamba Bafia;CFD
+Cameroon;Bafia;CMA Kiiki Bafia;CFE
+Cambodia;Batheay;Batheay RH;KDA
+Cambodia;Batheay;Tumnub HC;KDB
+Cambodia;Batheay;Phaav HC;KDC
+Cambodia;Batheay;Sambour HC;KDD
+Cambodia;Batheay;Choeung Chnok HC;KDE
+Cambodia;Angroka;Angroka RH;KEA
+Cambodia;Angroka;Taphem HC;KEB
+Cambodia;Angroka;Nhaeng Nhang HC ;KEC
+Cambodia;Angroka;Kus HC;KED
+Cambodia;Angroka;Tropang Andert HC ;KEE
+Sierra Leone;Port Loko;Port Loko Govt Hospital;SPA
+Sierra Leone;Port Loko;Mange CHC;SPB
+Sierra Leone;Port Loko;Gbinti CHC;SPC
+Sierra Leone;Port Loko;Petifu CHC;SPD
+Sierra Leone;Port Loko;Babara CHC;SPE
+Sierra Leone;Bo;BO Government Hospital;SBA
+Sierra Leone;Bo;New Police Barracks CHC;SBB
+Sierra Leone;Bo;Gerihun CHC;SBC
+Sierra Leone;Bo;Koribondo CHC;SBD
+Sierra Leone;Bo;Njala University CHC;SBE
+Mozambique;Manjacaze;Hospital Rural de manjacaze;MAA
+Mozambique;Manjacaze;Laranjeira;MAB
+Mozambique;Manjacaze;Macuacua;MAC
+Mozambique;Manjacaze;Chibonzane;MAD
+Mozambique;Manjacaze;Chidenguele;MAE
+Mozambique;Chokwe;Hospital Rural Chokwe;MCA
+Mozambique;Chokwe;Hokwe;MCC
+Mozambique;Chokwe;Chalocuane;MCD
+Mozambique;Chokwe;Chiaquelane;MCE
+Uganda;Kanungu;Kambuga Hospital;UKA
+Uganda;Kanungu;Kanungu HCV;UKB
+Uganda;Kanungu;Nyamirama HC III;UKC
+Uganda;Kanungu;Kanyantorogo HC III;UKD
+Uganda;Kanungu;Matanda HC III;UKE
+Uganda;Rakai;Rakai Hospital;URA
+Uganda;Rakai;Buyamba HCIII;URB
+Uganda;Rakai;Lwanda HC III;URC
+Uganda;Rakai;St Benard's Manya HCIII;URD
+Uganda;Rakai;Lwamaggwa HC III;URE
